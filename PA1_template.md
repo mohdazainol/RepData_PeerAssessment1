@@ -1,5 +1,5 @@
 # Reproducible Research: Peer Assessment 1
-==========================================
+
 Created by Mohd Amiruddin Zainol on April 16, 2017
 
 ### Basic settings
